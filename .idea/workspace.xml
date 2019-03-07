@@ -4,8 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d976154-dadc-4226-8d24-fb007898a9a3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="9d976154-dadc-4226-8d24-fb007898a9a3" name="Default" comment="提交作业">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,16 +25,7 @@
         <entry file="file://$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/methodfactory/MethodFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -41,8 +33,8 @@
       <file leaf-file-name="Project_Default.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="80">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -85,8 +77,8 @@
         <option value="$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/methodfactory/JavaProjectFactory.java" />
         <option value="$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/methodfactory/PythondProjectFactory.java" />
         <option value="$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/methodfactory/MethodFactoryTest.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -109,8 +101,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="206" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="25" />
     <option name="y" value="23" />
     <option name="width" value="1415" />
     <option name="height" value="877" />
@@ -123,9 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,10 +133,58 @@
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
               <item name="inspectionProfiles" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,6 +320,7 @@
       <option name="presentableId" value="Default" />
       <updated>1551922629999</updated>
       <workItem from="1551922631525" duration="1995000" />
+      <workItem from="1551946293416" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="提交作业">
       <created>1551944419603</created>
@@ -295,62 +333,41 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10048000" />
+    <option name="totallyTimeSpent" value="10580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="6" />
-      <window_info anchor="bottom" id="TODO" order="14" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.32893" />
-      <window_info anchor="right" id="Palette&#9;" order="15" />
-      <window_info id="Image Layers" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32893" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32893" />
-      <window_info id="Capture Tool" order="13" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25345957" />
-      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32893" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.3989432" />
-      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" id="Palette" order="9" />
-      <window_info id="Designer" order="8" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="10" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="16" visible="true" weight="0.32893" />
-      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="17" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="18" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="5" />
-      <window_info id="Image Layers" order="9" />
-      <window_info id="Capture Tool" order="10" />
-      <window_info id="UI Designer" order="11" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="11" />
-      <window_info anchor="right" id="Database" order="12" />
       <window_info anchor="right" id="Palette&#9;" order="13" />
-      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info id="Image Layers" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
       <window_info anchor="bottom" id="Event Log" order="19" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info id="Favorites" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="right" id="Maven Projects" order="14" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24981792" />
+      <window_info anchor="bottom" id="Database Changes" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="18" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="16" visible="true" weight="0.32893" />
+      <window_info id="Capture Tool" order="10" />
+      <window_info id="Designer" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25345957" />
+      <window_info anchor="right" id="Database" order="12" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info id="Favorites" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32893" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32893" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,6 +381,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="提交作业" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/methodfactory/MethodFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -392,9 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/designpattern/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -430,13 +465,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/model/PythonTeam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/model/PythonTeam.java" />
     <entry file="file://$PROJECT_DIR$/designpattern/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -444,17 +473,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/model/JavaTeam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/model/JavaTeam.java" />
     <entry file="file://$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/model/JavaProject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -508,9 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -528,9 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,9 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -555,16 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/methodfactory/MethodFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -573,20 +573,27 @@
         <state relative-caret-position="-3924" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/methodfactory/MethodFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="80">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
