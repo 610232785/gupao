@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d976154-dadc-4226-8d24-fb007898a9a3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <state relative-caret-position="283">
+              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project_Default.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -77,6 +86,7 @@
         <option value="$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/methodfactory/PythondProjectFactory.java" />
         <option value="$PROJECT_DIR$/designpattern/factorypattern/src/main/java/com/gupao/study/methodfactory/MethodFactoryTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       </list>
     </option>
   </component>
@@ -126,69 +136,13 @@
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="methodfactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="inspectionProfiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,7 +295,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9746000" />
+    <option name="totallyTimeSpent" value="10048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="6" />
@@ -614,10 +568,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3924" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="283">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
