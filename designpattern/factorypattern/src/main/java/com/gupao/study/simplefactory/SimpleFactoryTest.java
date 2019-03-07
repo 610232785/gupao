@@ -9,6 +9,10 @@ import com.gupao.study.model.JavaProject;
  * @author rainly
  */
 public class SimpleFactoryTest {
+    /**
+     * 测试方法
+     * @param args
+     */
     public static void main(String[] args) {
         SimpleFactory simpleFactory0 = new SimpleFactory();
         Project project0 = simpleFactory0.createByName("JavaProject");
