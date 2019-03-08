@@ -25,3 +25,6 @@ hs_err_pid*
 /*.iml
 designpattern/factorypattern/target/
 /study.iml
+/designpattern/factorypattern/factorypattern.iml
+designpattern/designpattern.iml
+designpattern/factorypattern/factorypattern.iml
