@@ -1,6 +1,7 @@
 package com.gupao.study.methodfactory;
 
 import com.gupao.study.interfaces.Project;
+import com.gupao.study.interfaces.ProjectFactory;
 import com.gupao.study.model.JavaProject;
 
 /**

@@ -1,0 +1,49 @@
+@startuml
+interface Project {
+    output()
+}
+
+class SimpleFactory{
+    createByName(name)
+    createByEnum(enum)
+}
+
+
+class JavaProject {
+    output()
+}
+class PythonProject {
+    output()
+}
+class VueProject {
+    output()
+}
+class ReactProject {
+    output()
+}
+class AngularProject {
+    output()
+}
+
+
+enum ProjectType {
+    JavaProject
+    PythonProject
+    ReactProject
+    AngularProject
+    VueProject
+}
+
+JavaProject <|-- Project
+PythonProject <|-- Project
+ReactProject <|-- Project
+AngularProject <|-- Project
+VueProject <|-- Project
+
+JavaProject <|-- SimpleFactory
+PythonProject <|-- SimpleFactory
+ReactProject <|-- SimpleFactory
+AngularProject <|-- SimpleFactory
+VueProject <|-- SimpleFactory
+
+@enduml

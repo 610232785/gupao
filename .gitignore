@@ -26,5 +26,9 @@ hs_err_pid*
 designpattern/factorypattern/target/
 /study.iml
 /designpattern/factorypattern/factorypattern.iml
+<<<<<<< HEAD
 designpattern/designpattern.iml
 designpattern/factorypattern/factorypattern.iml
+=======
+/designpattern/designpattern.iml
+>>>>>>> 07ed27a86e2c415e8b9ab494599af561e9576856

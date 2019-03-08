@@ -1,0 +1,31 @@
+@startuml
+interface Project {
+    output()
+}
+
+interface ProjectFactory{
+    createProject()
+}
+class JavaProjectFactory {
+    createProject()
+}
+class PythonProjectFactory {
+    createProject()
+}
+
+class JavaProject {
+    output()
+}
+class PythonProject {
+    output()
+}
+
+JavaProject <|-- Project
+PythonProject <|-- Project
+
+JavaProjectFactory <|-- ProjectFactory
+PythonProjectFactory <|-- ProjectFactory
+
+JavaProject <|-- JavaProjectFactory
+PythonProject <|-- PythonProjectFactory
+@enduml

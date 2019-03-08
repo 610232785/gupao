@@ -1,4 +1,4 @@
-package com.gupao.study.methodfactory;
+package com.gupao.study.interfaces;
 
 import com.gupao.study.interfaces.Project;
 

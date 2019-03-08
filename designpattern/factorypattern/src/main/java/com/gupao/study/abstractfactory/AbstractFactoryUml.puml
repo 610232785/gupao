@@ -1,0 +1,72 @@
+@startuml
+
+abstract class AbstractProject{
+    abstract output()
+}
+abstract class AbstractServiceProject{
+    abstract output()
+}
+abstract class AbstractDevelopmentProject{
+    abstract output()
+}
+abstract class AbstractCompanyFactory{
+    createServiceProject()
+    createDevelopmentProject()
+}
+
+interface Company{
+    createServiceProject()
+    createDevelopmentProject()
+}
+interface Project{
+    output()
+}
+
+Class CmccDevelopmentProject
+Class CmccServiceProject
+
+Class TelecomDevelopmentProject
+Class TelecomServiceProject
+
+Class UnicomDevelopmentProject
+Class UnicomServiceProject
+
+Class CompanyFactoryA
+Class CompanyFactoryB
+Class CompanyFactoryC
+
+AbstractServiceProject <-- AbstractProject
+AbstractDevelopmentProject <-- AbstractProject
+
+CmccServiceProject <-- AbstractServiceProject
+TelecomServiceProject <-- AbstractServiceProject
+UnicomServiceProject <-- AbstractServiceProject
+
+CmccDevelopmentProject <-- AbstractDevelopmentProject
+TelecomDevelopmentProject <-- AbstractDevelopmentProject
+UnicomDevelopmentProject <-- AbstractDevelopmentProject
+
+CmccServiceProject <-- Project
+TelecomServiceProject <-- Project
+UnicomServiceProject <-- Project
+CmccDevelopmentProject <-- Project
+TelecomDevelopmentProject <-- Project
+UnicomDevelopmentProject <-- Project
+
+CompanyFactoryA <-- AbstractCompanyFactory
+CompanyFactoryB <-- AbstractCompanyFactory
+CompanyFactoryC <-- AbstractCompanyFactory
+
+CompanyFactoryA <-- Company
+CompanyFactoryB <-- Company
+CompanyFactoryC <-- Company
+
+CmccServiceProject <-- CompanyFactoryA
+CmccDevelopmentProject <-- CompanyFactoryA
+
+UnicomServiceProject <-- CompanyFactoryB
+UnicomDevelopmentProject <-- CompanyFactoryB
+
+TelecomServiceProject <-- CompanyFactoryC
+TelecomDevelopmentProject <-- CompanyFactoryC
+@enduml
