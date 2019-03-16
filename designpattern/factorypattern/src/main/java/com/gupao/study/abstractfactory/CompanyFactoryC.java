@@ -6,11 +6,13 @@ import com.gupao.study.interfaces.Project;
 
 /**
  * 工厂C
+ *
  * @author rainly
  */
-public class CompanyFactoryC extends AbstractCompanyFactory  implements Company {
+public class CompanyFactoryC extends AbstractCompanyFactory implements Company {
     /**
      * 生产电信服务项目
+     *
      * @return
      */
     @Override
@@ -20,6 +22,7 @@ public class CompanyFactoryC extends AbstractCompanyFactory  implements Company 
 
     /**
      * 生产电信开发项目
+     *
      * @return
      */
     @Override

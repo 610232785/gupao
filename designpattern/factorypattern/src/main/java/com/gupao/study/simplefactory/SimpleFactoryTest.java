@@ -6,11 +6,13 @@ import com.gupao.study.model.JavaProject;
 
 /**
  * 简单工厂测试
+ *
  * @author rainly
  */
 public class SimpleFactoryTest {
     /**
      * 测试方法
+     *
      * @param args
      */
     public static void main(String[] args) {

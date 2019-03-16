@@ -2,6 +2,7 @@ package com.gupao.study.enums;
 
 /**
  * 项目的类型
+ *
  * @author rainly
  */
 public enum ProjectType {

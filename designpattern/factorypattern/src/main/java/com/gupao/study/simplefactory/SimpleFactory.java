@@ -13,6 +13,7 @@ public class SimpleFactory {
 
     /**
      * 通过类名建立项目
+     *
      * @param name
      * @return
      */
@@ -35,11 +36,12 @@ public class SimpleFactory {
 
     /**
      * 根据项目枚举创建项目
+     *
      * @param type
      * @return
      */
-    public Project createByEnum(ProjectType type){
-        switch (type){
+    public Project createByEnum(ProjectType type) {
+        switch (type) {
             case JavaProject:
                 return new JavaProject();
             case PythonProject:
@@ -57,14 +59,15 @@ public class SimpleFactory {
 
     /**
      * 通过类名建立对象
+     *
      * @param clzz
      * @return
      */
-    public Project creatByClzz(Class<? extends Project> clzz){
-        if (null != clzz){
+    public Project creatByClzz(Class<? extends Project> clzz) {
+        if (null != clzz) {
             try {
                 return clzz.newInstance();
-            } catch (InstantiationException | IllegalAccessException  e) {
+            } catch (InstantiationException | IllegalAccessException e) {
                 e.printStackTrace();
             }
         }
